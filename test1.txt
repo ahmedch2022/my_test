@@ -13,3 +13,11 @@ git add test1.txt
 git commit -m "un test a été ajouté"
 
 git push -u origin master
+
+git status
+
+git add test1.txt
+
+git commit -m "un test a été ajouté"
+
+git push -u origin master
