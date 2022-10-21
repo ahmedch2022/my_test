@@ -1,0 +1,15 @@
+
+
+
+
+git config --global user.email "chtourou.ahmed8@gmail.com"
+
+git config --global user.name "ahmedch2022"
+
+git remote add origin https://github.com/ahmedch2022/my_test.git
+
+git add test1.txt
+
+git commit -m "un test a été ajouté"
+
+git push -u origin master
