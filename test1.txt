@@ -18,6 +18,18 @@ git status
 
 git add test1.txt
 
-git commit -m "un test a été ajouté"
+git commit -m "un test a été modifié"
+
+git push -u origin master
+
+git add test2.txt
+
+git commit -m "test2 a été ajouté"
+
+git push -u origin master
+
+git add test1.txt
+
+git commit -m "un test a été supprimé"
 
 git push -u origin master
